@@ -1,1 +1,1 @@
-# Bus-Ticket-Managemnt-System
+# Bus-Ticket-Management-System
